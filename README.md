@@ -1,3 +1,6 @@
+# Join Discord https://discord.gg/AJxE8TnmHx
+
+
 # Jomanji-Nuker
 The Fastest Discord Nuker Ever 🔥 Bypasses all Ratelimits 🔓
 
