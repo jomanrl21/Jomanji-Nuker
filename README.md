@@ -25,7 +25,7 @@ pip install discord.py colorama
 
 **Make sure add your user id and your bot token to config.txt**
 
-** run main.exe **
+**run main.exe**
 
 1. | Nuke
 Enter Guild ID: 123456789012345678
