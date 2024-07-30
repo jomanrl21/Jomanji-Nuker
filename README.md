@@ -14,16 +14,18 @@ Welcome to the **Jomanji Nuker**! This powerful Discord bot is designed for nuke
 - **DM Everyone**: Send a message to everyone in the server.
 - **Easy Configuration**: Simple setup with a config file.
 - **Custom Error Codes**: Detailed error messages for troubleshooting.
+- **Proxy Support**
+- **Bypass Ratelimits**
 
 Install dependencies:
 
 pip install discord.py colorama
 
-Run the bot:
+Start 
 
-python main.py
+make sure add your user id and your bot token to config.txt
 
-
+run main.exe 
 
 1. | Nuke
 Enter Guild ID: 123456789012345678
