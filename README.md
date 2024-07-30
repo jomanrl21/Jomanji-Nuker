@@ -17,13 +17,13 @@ Welcome to the **Jomanji Nuker**! This powerful Discord bot is designed for nuke
 - **Proxy Support**
 - **Bypass Ratelimits**
 
-Install dependencies:
+# Install dependencies:
 
 pip install discord.py colorama
 
-Start 
+# Start 
 
-make sure add your user id and your bot token to config.txt
+# make sure add your user id and your bot token to config.txt
 
 run main.exe 
 
