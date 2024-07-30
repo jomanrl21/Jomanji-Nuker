@@ -4,7 +4,7 @@
 # Jomanji-Nuker
 The Fastest Discord Nuker Ever 🔥 Bypasses all Ratelimits 🔓
 
-# Jomanji Nuker [V.2.0] 🚀
+# Jomanji Nuker [V.2.1] 🚀
 
 Welcome to the **Jomanji Nuker**! This powerful Discord bot is designed for nuke (and some chaos). Use responsibly! 😈
 
